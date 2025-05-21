@@ -42,7 +42,6 @@ function CartProvider({children}: CartProviderProps){
             setCart(cartList);
             totalResultCart(cartList);
             return;
-
         }
         let data = {
             ...newItem,
@@ -51,7 +50,6 @@ function CartProvider({children}: CartProviderProps){
         }
         setCart(products => [...products, data])
         totalResultCart([...cart, data])
-
     }
 
     function removeItemCart(product: CartProps){

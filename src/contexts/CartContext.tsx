@@ -50,12 +50,9 @@ function CartProvider({ children }: CartProviderProps){
       total: newItem.price
     }
 
-
     setCart(products => [...products, data])
     totalResultCart([...cart, data])
-
   }
-
 
   function removeItemCart(product: CartProps){
     const indexItem = cart.findIndex(item => item.id === product.id)
@@ -74,9 +71,7 @@ function CartProvider({ children }: CartProviderProps){
     const removeItem = cart.filter(item => item.id !== product.id)
     setCart(removeItem);
     totalResultCart(removeItem)
-
   }
-
 
   function totalResultCart(items: CartProps[]){
     let myCart = items;
@@ -84,7 +79,6 @@ function CartProvider({ children }: CartProviderProps){
     const resultFormated = result.toLocaleString("pt-BR", { style: "currency", currency: "BRL" })
     setTotal(resultFormated);
   }
-
 
   return(
     <CartContext.Provider 

@@ -14,7 +14,7 @@ export function ProductDetail(){
 
     useEffect(() => {
         async function getProduct(){
-            const response = await api.get(`/product/${id}`)
+            const response = await api.get(`/products3/${id}`)
             setProduct(response.data);
         }
 

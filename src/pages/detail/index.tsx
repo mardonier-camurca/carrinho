@@ -3,7 +3,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import { api } from "../../services/api";
 import { ProductProps } from "../home";
 import { BsCartPlus } from "react-icons/bs";
-import { CartContext } from "../../contexts/CartContexts";
+import { CartContext } from "../../contexts/CartContext";
 import toast from "react-hot-toast";
 
 export function ProductDetail(){
@@ -14,7 +14,7 @@ export function ProductDetail(){
 
     useEffect(() => {
         async function getProduct(){
-            const response = await api.get(`/products3/${id}`)
+            const response = await api.get(`/products/${id}`)
             setProduct(response.data);
         }
 
@@ -27,7 +27,8 @@ export function ProductDetail(){
                 borderRadius: 10,
                 backgroundColor: "#121212",
                 color: "#FFF"
-        }})
+        }
+    })
         addItemCart(product);
 
         navigate("/cart");
@@ -55,17 +56,22 @@ export function ProductDetail(){
                                     })}
                                 </strong>
                                 <button className="bg-zinc-900 p-1 rounded ml-3" onClick={() => handleAddItem(product)}>
-                                    <BsCartPlus size={20} color="#FFF" />
-
+                                    <BsCartPlus size={20} color="#FFF"/>
                                 </button>
+
+
+
+
+
+
+
+
                             </div>
 
                         </div>
 
                     </section>
                 ) }
-
-                <h1>Detalhes...</h1>
 
             </main>
         </div>

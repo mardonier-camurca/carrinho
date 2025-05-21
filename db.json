@@ -1,46 +1,179 @@
 {
   "products": [
-    { 
-      "id": 1, 
-      "title": "Airpods Apple, com Estojo de Recarga, Bluetooth", 
-      "description": "Airpods Apple, com Estojo de Recarga, Bluetooth, Branco\nO Novo AirPods traz uma experiência nova em usar fones de ouvido sem fio. É só tirá-los do estojo e estão prontos para uso com seu iPhone, Apple Watch, iPad ou Mac. Ele oferece cinco horas de som e três horas para conversar com apenas uma carga. Eles acompanham seu ritmo graças ao estojo que proporciona várias cargas adicionais para mais de 24 horas de uso." ,
-      "price":120,
-      "cover": "https://i.imgur.com/uXrbyfA.jpg"
+    {
+      "id": 1,
+      "title": "Tênis Nike Air Max 90 Masculino",
+      "description": "Tênis Nike Air Max 90 com design icônico e amortecimento Air Max para conforto durante todo o dia.",
+      "price": 799.99,
+      "cover": "https://i.imgur.com/NikeAirMax90.jpg"
     },
-    { 
-      "id": 2, 
-      "title": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-11300H", 
-      "description": "Lenovo ideapad Gaming 3i\nNovo design com 11ª Geração de Processadores Intel Core i5-11300H e placa de vídeo NVIDIA GeForce GTX 1650 4GB. Ideal para gamers e usuários que também precisam de alta performance. Com tela de 15.6'' Full HD WVA Antirreflexo para melhor definição de imagem e cores. O armanezamento SSD PCIe NVMe é 10x mais rápido* que um HDD 2.5” SATA, você terá mais segurança ao armazenar seus dados. O teclado retroiluminado em LED branco, deixa o computador mais atraente e também favorece a performance para jogos em lugares com pouca iluminação.",
-      "price": 379.9,
-      "cover": "https://i.imgur.com/bM5IUKe.jpg"
+    {
+      "id": 2,
+      "title": "Tênis Nike Air Zoom Pegasus 38 Masculino",
+      "description": "Tênis de corrida Nike Air Zoom Pegasus 38 com amortecimento responsivo e ajuste confortável.",
+      "price": 699.99,
+      "cover": "https://i.imgur.com/NikePegasus38.jpg"
     },
-    { 
-      "id": 3, 
-      "title": "Teclado Mecânico Gamer HyperX Alloy", 
-      "description": "Teclado HyperX Alloy MKW100, HKBM1-R-EUA/G - 4P5E1AA#ABA\nObtenha uma iluminação radiante e por tecla com efeitos dinâmicos para adicionar um toque de estilo ao seu setup de PC. Estrutura em alumínio durável\nCom uma estrutura de alumínio sólida, o Alloy MKW100 foi projetado para fornecer estabilidade quando os toques em teclas estiverem a todo vapor. O descanso para pulso removível ajuda a reduzir a fadiga de longas sessões de jogos ou de trabalho.",
-      "price": 199.99,
-      "cover": "https://i.imgur.com/ldh1Q8O.jpg"
+    {
+      "id": 3,
+      "title": "Tênis Nike Revolution 5 Masculino",
+      "description": "Tênis Nike Revolution 5 com espuma macia para corridas suaves e confortáveis.",
+      "price": 249.99,
+      "cover": "https://i.imgur.com/NikeRevolution5.jpg"
     },
-    { 
-      "id": 4, 
-      "title": "Monitor Gamer Husky Tempest 34", 
-      "description": "O Monitor Gamer Husky Gaming Tempest LED 34 UltraWide Curvo traz a experiência de imersão completa para o seus jogos! A tela Curva UltraWide, formato 21:9, e Quad HD (QHD), com taxa de atualização de 144Hz, confere maior campo de visão e amplifica a experiência de imersão durante seus jogos.",
-      "price": 2099.99,
-      "cover": "https://i.imgur.com/sRmbcWW.jpeg"
+    {
+      "id": 4,
+      "title": "Tênis Nike Downshifter 11 Masculino",
+      "description": "Tênis Nike Downshifter 11 com suporte leve e amortecimento para corridas diárias.",
+      "price": 299.99,
+      "cover": "https://i.imgur.com/NikeDownshifter11.jpg"
     },
-    { 
-      "id": 5, 
-      "title": "Soundbar LG SNH5, 4.1 Canais, Bluetooth, 600W RMS", 
-      "description": "O LG Sound Bar SNH5 uniu-se ao DTS Virtual:X para transformar sua casa em um verdadeiro cinema e deixar a exibição dos seus filmes favoritos muito mais imersiva. O LG Sound Bar SNH5 suporta saída para 4.1 canais para que você possa assistir à TV com um som mais envolvente.",
-      "price": 1099.99,
-      "cover": "https://i.imgur.com/w7SeQsa.jpg"
+    {
+      "id": 5,
+      "title": "Tênis Nike Air Max 270 Masculino",
+      "description": "Tênis Nike Air Max 270 com unidade Air Max visível para máximo amortecimento.",
+      "price": 899.99,
+      "cover": "https://i.imgur.com/NikeAirMax270.jpg"
     },
-    { 
-      "id": 6, 
-      "title": "Smartwatch Samsung Galaxy Watch 5, BT, 40mm", 
-      "description": "O smartwatch que oferece o mais completo conjunto de funções de monitoramento para o acompanhamento da Saúde e do Bem-Estar de uma maneira precisa e confiável. Possui os recursos essenciais e mais avançados para medir e acompanhar o estado da sua Saúde, funções como monitor de Batimento Cardíaco, Pressão Arterial, Eletrocardiograma, Oxímetro, Detecção de Queda e Chamada de Emergência, programa de Coaching do Sono para monitorar e melhorar a qualidade do seu Sono , além da Bioimpedância para avaliar a composição corporal de maneira rápida e interativa, e verificar a evolução os resultados dos exercícios refletidos no seu corpo. Possui uma série de funções avançadas de treinos com mais de 95 modalidades. ",
-      "price": 1139.00,
-      "cover": "https://i.imgur.com/Ua4bURp.jpg"
+    {
+      "id": 6,
+      "title": "Tênis Nike Air Force 1 '07 Masculino",
+      "description": "Tênis Nike Air Force 1 '07 com design clássico e solado robusto.",
+      "price": 699.99,
+      "cover": "https://i.imgur.com/NikeAirForce1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Tênis Nike React Infinity Run Flyknit 2 Masculino",
+      "description": "Tênis Nike React Infinity Run Flyknit 2 com suporte aprimorado e amortecimento responsivo.",
+      "price": 999.99,
+      "cover": "https://i.imgur.com/NikeReactInfinity.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Tênis Nike ZoomX Vaporfly Next% 2 Masculino",
+      "description": "Tênis Nike ZoomX Vaporfly Next% 2 projetado para velocidade máxima em corridas.",
+      "price": 1499.99,
+      "cover": "https://i.imgur.com/NikeVaporfly.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Tênis Nike Free RN 5.0 Masculino",
+      "description": "Tênis Nike Free RN 5.0 com design leve e flexível para corridas naturais.",
+      "price": 499.99,
+      "cover": "https://i.imgur.com/NikeFreeRN.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Tênis Nike Air Zoom Structure 23 Masculino",
+      "description": "Tênis Nike Air Zoom Structure 23 com suporte e estabilidade para corridas diárias.",
+      "price": 799.99,
+      "cover": "https://i.imgur.com/NikeStructure23.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Tênis Adidas Ultraboost 21 Masculino",
+      "description": "Tênis Adidas Ultraboost 21 com retorno de energia aprimorado e conforto superior.",
+      "price": 899.99,
+      "cover": "https://i.imgur.com/AdidasUltraboost21.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Tênis Adidas NMD_R1 Masculino",
+      "description": "Tênis Adidas NMD_R1 com design moderno e amortecimento Boost responsivo.",
+      "price": 799.99,
+      "cover": "https://i.imgur.com/AdidasNMD_R1.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Tênis Adidas Superstar Masculino",
+      "description": "Tênis Adidas Superstar com design clássico e biqueira em concha icônica.",
+      "price": 399.99,
+      "cover": "https://i.imgur.com/AdidasSuperstar.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Tênis Adidas Stan Smith Masculino",
+      "description": "Tênis Adidas Stan Smith com estilo minimalista e solado de borracha.",
+      "price": 349.99,
+      "cover": "https://i.imgur.com/AdidasStanSmith.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Tênis Adidas Solar Glide 4 Masculino",
+      "description": "Tênis Adidas Solar Glide 4 com suporte e amortecimento para corridas longas.",
+      "price": 699.99,
+      "cover": "https://i.imgur.com/AdidasSolarGlide4.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Tênis Mizuno Wave Dynasty Masculino",
+      "description": "Tênis Mizuno Wave Dynasty com tecnologia Wave para amortecimento e estabilidade.",
+      "price": 179.99,
+      "cover": "https://i.imgur.com/MizunoWaveDynasty.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Tênis Mizuno Cool Ride Masculino",
+      "description": "Tênis Mizuno Cool Ride com design leve e respirável para corridas diárias.",
+      "price": 153.80,
+      "cover": "https://i.imgur.com/MizunoCoolRide.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Tênis Mizuno Wave Mirai 4 Masculino",
+      "description": "Tênis Mizuno Wave Mirai 4 com amortecimento eficiente para treinos e corridas.",
+      "price": 359.90,
+      "cover": "https://i.imgur.com/MizunoWaveMirai4.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Tênis Mizuno Enerzy Masculino",
+      "description": "Tênis Mizuno Enerzy com entressola Enerzy para retorno de energia aprimorado.",
+      "price": 599.99,
+      "cover": "https://i.imgur.com/MizunoEnerzy.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Tênis Mizuno Wave Prophecy X Masculino",
+      "description": "Tênis Mizuno Wave Prophecy X com tecnologia de amortecimento Infinity Wave.",
+      "price": 1099.90,
+      "cover": "https://i.imgur.com/MizunoWaveProphecyX.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Tênis Asics Gel-Equation 13 Masculino",
+      "description": "Tênis Asics Gel-Equation 13 com amortecimento em gel para conforto nas corridas.",
+      "price": 194.99,
+      "cover": "https://i.imgur.com/AsicsGelEquation13.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Tênis Asics Gel-Kayano 28 Masculino",
+      "description": "Tênis Asics Gel-Kayano 28 com estabilidade e amortecimento para longas distâncias.",
+      "price": 899.99,
+      "cover": "https://i.imgur.com/AsicsKayano28.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Tênis Asics Gel-Nimbus 24 Masculino",
+      "description": "Tênis Asics Gel-Nimbus 24 com conforto premium e gel visível.",
+      "price": 999.99,
+      "cover": "https://i.imgur.com/AsicsNimbus24.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Tênis Asics Gel-Venture 8 Masculino",
+      "description": "Tênis Asics Gel-Venture 8 ideal para trilhas e corridas em terrenos acidentados.",
+      "price": 449.99,
+      "cover": "https://i.imgur.com/AsicsVenture8.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Tênis Asics Patriot 12 Masculino",
+      "description": "Tênis Asics Patriot 12 com leveza e respirabilidade para o dia a dia.",
+      "price": 279.99,
+      "cover": "https://i.imgur.com/AsicsPatriot12.jpg"
     }
   ]
 }
